@@ -47,7 +47,7 @@ const Contact: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10">
           <div>
             <div className="bg-[#F5F0E6] p-6 rounded-lg shadow-md mb-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-4">Maklumat Hubungan</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-4">Hubungi Kami</h3>
               
               <div className="space-y-4">
                 <div className="flex items-center gap-3">
