@@ -17,6 +17,7 @@ export const NAV_LINKS = [
 
 export const PHONE_NUMBER = "+601163938216";
 export const EMAIL = "mawarhomestay@gmail.com";
+export const WEBSITE = "https://webniaga.my";
 export const LOCATION = "Jalan Mawar Indah, Taman Mawar, 43000 Kajang, Selangor";
 
 export const AMENITIES: AmenityType[] = [
