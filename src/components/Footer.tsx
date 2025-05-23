@@ -70,6 +70,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-gray-700 mt-10 pt-6 text-center text-gray-500">
           <p>&copy; {currentYear} Mawar Homestay. Hak Cipta Terpelihara.</p>
+          <p>Design and Powered by <a href="https://webniaga.my>webniaga.my</a></p>
         </div>
       </div>
     </footer>
