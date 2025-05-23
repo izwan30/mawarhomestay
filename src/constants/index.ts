@@ -15,9 +15,8 @@ export const NAV_LINKS = [
   { title: "Soalan Lazim", href: "#faq" }
 ];
 
-export const PHONE_NUMBER = "+601163938216";
+export const PHONE_NUMBER = "+601158913099";
 export const EMAIL = "mawarhomestay@gmail.com";
-export const WEBSITE = "https://webniaga.my";
 export const LOCATION = "Jalan Mawar Indah, Taman Mawar, 43000 Kajang, Selangor";
 
 export const AMENITIES: AmenityType[] = [
