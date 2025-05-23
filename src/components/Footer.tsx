@@ -68,9 +68,19 @@ const Footer: React.FC = () => {
           </div>
         </div>
         
-        <div className="border-t border-gray-700 mt-10 pt-6 text-center text-gray-500">
-          <p>&copy; {currentYear} Mawar Homestay. Hak Cipta Terpelihara.</p> 
-          <p>Design and Powered by <a href={WEBSITE}>webniaga.my</a></p>
+        <div className="border-t border-gray-700 mt-10 pt-6 text-center">
+          <p className="text-gray-500 mb-2">&copy; {currentYear} Mawar Homestay. Hak Cipta Terpelihara.</p>
+          <p className="text-gray-500">
+            Design & Powered by{' '}
+            <a 
+              href="https://webniaga.my" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="text-[#8CA58C] hover:text-[#718C71] transition-colors duration-300"
+            >
+              webniaga.my
+            </a>
+          </p>
         </div>
       </div>
     </footer>
